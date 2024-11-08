@@ -1,0 +1,39 @@
+body{
+  margin: 0 auto;
+  background: linear-gradient(to right,#0F4C81,#FFC9C9);
+  width: 100%;
+  max-width: 900px;
+
+  
+  
+ 
+}
+h1{
+  margin-right: 50px;
+}
+
+main{
+  border: 2px black solid;
+  border-radius: 2rem;
+  justify-items: center;
+
+}
+button{
+  color: rgb(245, 11, 11);
+  border-radius: 1rem;
+  margin-left: 10px;
+}
+input{
+  border-radius: 1rem;
+}
+input[type="checkbox"] {
+  margin-right: 10px;
+}
+input[type="checkbox"] {
+  margin-right: 10px;
+}
+li{
+  margin-right: 80px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
